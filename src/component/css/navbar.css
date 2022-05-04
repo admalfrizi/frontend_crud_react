@@ -1,0 +1,17 @@
+nav {
+    background: #205375;
+}
+
+.links {
+    color: white !important;
+    text-decoration: none;
+}
+
+.links:hover, .links:active {
+    color: white;
+    background-color: #7FB5FF;
+    border-radius: 20px;
+    padding: 10px;
+    transition-duration: 0.3s;
+    text-decoration: none;
+}

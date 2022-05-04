@@ -1,0 +1,8 @@
+.detail {
+    color: white;
+    background: #68A7AD;
+}
+
+.detail:hover {
+    background: #99C4C8;
+}
